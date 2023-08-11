@@ -1,7 +1,7 @@
 
 
 /* FIRST CONTAINER */
-@media screen and (min-width:375px) and (max-width: 480px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     #container1{
         display: block;
         background-image: url(images/bg-hero-mobile.svg);
